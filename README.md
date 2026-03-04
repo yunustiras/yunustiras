@@ -89,11 +89,6 @@ Low Latency Multiplayer Gaming Infrastructure
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yunustiras&show_icons=true&theme=default)
-
----
 
 ## ✍️ Writing
 
