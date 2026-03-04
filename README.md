@@ -30,7 +30,7 @@ I have several years of experience operating production systems on AWS and desig
 
 | Area | Technologies |
 |-----|-------------|
-| Cloud | AWS (EC2, ALB, NLB, Auto Scaling, DynamoDB, ElastiCache, VPC, IAM, WAF, CloudWatch) |
+| Cloud | AWS (EC2, ALB, NLB, Auto Scaling, DynamoDB, ElastiCache, VPC, IAM, WAF, CloudWatch...) |
 | Containers | Docker, Kubernetes (EKS, Kops), Helm, ArgoCD |
 | Infrastructure as Code | Terraform, AWS CloudFormation, Ansible, Packer |
 | Observability | Prometheus, Grafana, Loki, ELK Stack, Alertmanager |
