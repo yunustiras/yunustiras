@@ -1,32 +1,40 @@
 # Yunus Tiras
 
-Senior Site Reliability Engineer focused on building large-scale cloud infrastructure and low-latency distributed systems.
+Senior Site Reliability Engineer focused on building large-scale cloud infrastructure and distributed systems.
 
-I currently operate globally distributed infrastructure powering real-time applications serving 1M+ daily users across 50+ AWS regions and local zones.
+My work centers on reliability engineering, Kubernetes platforms, cloud infrastructure, and high-performance backend systems.
 
-My work focuses on reliability engineering, Kubernetes platforms, cloud infrastructure, and high-performance distributed systems.
-
----
-
-## What I Do
-
-- Design and operate large-scale AWS infrastructure
-- Build low-latency global architectures
-- Operate Kubernetes platforms (EKS / Kops)
-- Implement Infrastructure as Code (Terraform / CloudFormation)
-- Build observability platforms (Prometheus, Grafana, Loki, ELK)
-- Improve system reliability through monitoring, alerting, and incident readiness
+I have several years of experience operating production systems on AWS and designing infrastructure for scalable, globally distributed applications.
 
 ---
 
-## Infrastructure I Work With
+## Certifications
+
+![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange)
+![CKA](https://img.shields.io/badge/Kubernetes-CKA-blue)
+
+---
+
+## ⚙️ What I Do
+
+- Design and operate large-scale cloud infrastructure  
+- Build reliable distributed systems  
+- Operate Kubernetes platforms  
+- Implement Infrastructure as Code  
+- Build observability and monitoring systems  
+- Improve reliability through automation and operational tooling  
+
+---
+
+## ☁️ Infrastructure Experience
 
 ### Cloud
 
 AWS  
-EC2, ALB, NLB, Auto Scaling, DynamoDB  
-ElastiCache, Global Accelerator, VPC  
-IAM, WAF, CloudWatch, CloudTrail
+EC2, ALB, NLB, Auto Scaling  
+DynamoDB, ElastiCache  
+VPC, IAM, WAF  
+CloudWatch, CloudTrail
 
 ### Containers and Platforms
 
@@ -60,66 +68,51 @@ JavaScript
 
 ---
 
-## Engineering Focus
+## 🧠 Engineering Interests
 
-- Distributed systems
-- Reliability engineering
-- Low latency infrastructure
-- High availability architectures
-- Kubernetes platform engineering
-- Infrastructure automation
-- Cloud cost optimization
+- Distributed systems  
+- Reliability engineering  
+- Cloud infrastructure  
+- Kubernetes platform engineering  
+- Infrastructure automation  
+- Observability and monitoring  
 
----
-
-## Emerging Infrastructure Interests
-
-I follow developments around AI and generative workloads running on cloud-native platforms, particularly in areas such as:
-
-- Kubernetes-based AI infrastructure
-- GPU-aware scheduling and scaling
-- Observability for ML and AI workloads
-
-My primary focus remains on building reliable and scalable infrastructure capable of supporting modern workloads.
+I also follow developments around modern workloads such as AI and generative systems, particularly from the perspective of infrastructure and platform reliability.
 
 ---
 
-## Talks
+## 🎤 Talks
 
-AWS Community Day Turkey 2025
+AWS Community Day Turkey 2025  
 
-Low Latency Multiplayer Gaming Infrastructure  
-High-Performance Real-Time Gaming on AWS
+Low Latency Multiplayer Gaming Infrastructure
 
 ---
 
-## Writing
+## 📊 GitHub Stats
 
-I write about:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yunustiras&show_icons=true&theme=default)
 
-- Cloud architecture
-- AWS infrastructure
-- DevOps and SRE
-- Distributed systems
+---
 
-Blog  
+## ✍️ Writing
+
+I write about cloud infrastructure, DevOps, and distributed systems.
+
 https://yunustiras.com
 
 ---
 
-## Community
+## 🌍 Community
 
 AWS Community Builder
 
 ---
 
-## Contact
+## 📫 Contact
 
 LinkedIn  
-https://linkedin.com/in/yunustiras
+https://linkedin.com/in/yunustiras  
 
 Website  
 https://yunustiras.com
-
-GitHub  
-https://github.com/yunustiras
