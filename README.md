@@ -83,9 +83,14 @@ I also follow developments around modern workloads such as AI and generative sys
 
 ## 🎤 Talks
 
-AWS Community Day Turkey 2025  
+## 🎤 Talks
 
-Low Latency Multiplayer Gaming Infrastructure
+**AWS Community Day Turkey 2025**
+
+Low Latency Multiplayer Gaming Infrastructure  
+Designing high-performance real-time multiplayer systems on AWS.
+
+[Watch on YouTube](https://www.youtube.com/watch?v=qLAaUF_zq4I)
 
 ---
 
