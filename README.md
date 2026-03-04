@@ -28,43 +28,13 @@ I have several years of experience operating production systems on AWS and desig
 
 ## ☁️ Infrastructure Experience
 
-### Cloud
-
-AWS  
-EC2, ALB, NLB, Auto Scaling  
-DynamoDB, ElastiCache  
-VPC, IAM, WAF  
-CloudWatch, CloudTrail
-
-### Containers and Platforms
-
-Docker  
-Kubernetes (EKS, Kops)  
-Helm  
-ArgoCD
-
-### Infrastructure as Code
-
-Terraform  
-AWS CloudFormation  
-Ansible  
-Packer
-
-### Observability
-
-Prometheus  
-Grafana  
-Loki  
-ELK Stack  
-Alertmanager
-
-### Languages
-
-Go  
-Python  
-PHP  
-Bash  
-JavaScript
+| Area | Technologies |
+|-----|-------------|
+| Cloud | AWS (EC2, ALB, NLB, Auto Scaling, DynamoDB, ElastiCache, VPC, IAM, WAF, CloudWatch) |
+| Containers | Docker, Kubernetes (EKS, Kops), Helm, ArgoCD |
+| Infrastructure as Code | Terraform, AWS CloudFormation, Ansible, Packer |
+| Observability | Prometheus, Grafana, Loki, ELK Stack, Alertmanager |
+| Languages | Go, Python, PHP, Bash, JavaScript |
 
 ---
 
@@ -81,7 +51,6 @@ I also follow developments around modern workloads such as AI and generative sys
 
 ---
 
-## 🎤 Talks
 
 ## 🎤 Talks
 
@@ -105,7 +74,10 @@ https://yunustiras.com
 
 ## 🌍 Community
 
-AWS Community Builder
+AWS Community Builder  
+https://builder.aws.com/community/@yunustiras
+
+Active in cloud and infrastructure communities, sharing experience around AWS, distributed systems, and reliability engineering.
 
 ---
 
@@ -114,5 +86,3 @@ AWS Community Builder
 LinkedIn  
 https://linkedin.com/in/yunustiras  
 
-Website  
-https://yunustiras.com
