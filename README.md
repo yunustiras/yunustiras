@@ -1,14 +1,125 @@
-<h1 align="center">Hi 👋, I'm Yunus</h1>
-<h3 align="center">I work as a Site Reliability Engineer at Miniclip.</h3>
+# Yunus Tiras
 
-- 📝 I regularly write articles on [https://yunustiras.com](https://yunustiras.com)
-- I am AWS Community Builder (Container) [https://builder.aws.com/community/@yunustiras](https://builder.aws.com/community/@yunustiras)
-- 💬 Ask me about **AWS, Cloud, Low Latency, Scalability, Cost Optimization, Go, Automation, K8S**
+Senior Site Reliability Engineer focused on building large-scale cloud infrastructure and low-latency distributed systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+I currently operate globally distributed infrastructure powering real-time applications serving 1M+ daily users across 50+ AWS regions and local zones.
 
-<a href="https://linkedin.com/in/yunustiras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunustiras" height="30" width="40" /></a>
-<a href="https://medium.com/@yunustiras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yunustiras" height="30" width="40" /></a>
-</p>
+My work focuses on reliability engineering, Kubernetes platforms, cloud infrastructure, and high-performance distributed systems.
 
+---
+
+## What I Do
+
+- Design and operate large-scale AWS infrastructure
+- Build low-latency global architectures
+- Operate Kubernetes platforms (EKS / Kops)
+- Implement Infrastructure as Code (Terraform / CloudFormation)
+- Build observability platforms (Prometheus, Grafana, Loki, ELK)
+- Improve system reliability through monitoring, alerting, and incident readiness
+
+---
+
+## Infrastructure I Work With
+
+### Cloud
+
+AWS  
+EC2, ALB, NLB, Auto Scaling, DynamoDB  
+ElastiCache, Global Accelerator, VPC  
+IAM, WAF, CloudWatch, CloudTrail
+
+### Containers and Platforms
+
+Docker  
+Kubernetes (EKS, Kops)  
+Helm  
+ArgoCD
+
+### Infrastructure as Code
+
+Terraform  
+AWS CloudFormation  
+Ansible  
+Packer
+
+### Observability
+
+Prometheus  
+Grafana  
+Loki  
+ELK Stack  
+Alertmanager
+
+### Languages
+
+Go  
+Python  
+PHP  
+Bash  
+JavaScript
+
+---
+
+## Engineering Focus
+
+- Distributed systems
+- Reliability engineering
+- Low latency infrastructure
+- High availability architectures
+- Kubernetes platform engineering
+- Infrastructure automation
+- Cloud cost optimization
+
+---
+
+## Emerging Infrastructure Interests
+
+I follow developments around AI and generative workloads running on cloud-native platforms, particularly in areas such as:
+
+- Kubernetes-based AI infrastructure
+- GPU-aware scheduling and scaling
+- Observability for ML and AI workloads
+
+My primary focus remains on building reliable and scalable infrastructure capable of supporting modern workloads.
+
+---
+
+## Talks
+
+AWS Community Day Turkey 2025
+
+Low Latency Multiplayer Gaming Infrastructure  
+High-Performance Real-Time Gaming on AWS
+
+---
+
+## Writing
+
+I write about:
+
+- Cloud architecture
+- AWS infrastructure
+- DevOps and SRE
+- Distributed systems
+
+Blog  
+https://yunustiras.com
+
+---
+
+## Community
+
+AWS Community Builder
+
+---
+
+## Contact
+
+LinkedIn  
+https://linkedin.com/in/yunustiras
+
+Website  
+https://yunustiras.com
+
+GitHub  
+https://github.com/yunustiras
