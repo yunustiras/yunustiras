@@ -75,7 +75,7 @@ https://yunustiras.com
 ## Community
 
 AWS Community Builder  
-https://builder.aws.com/community/@yunustiras
+https://builder.aws.com/community/yunustiras
 
 Active in cloud and infrastructure communities, sharing experience around AWS, distributed systems, and reliability engineering.
 
