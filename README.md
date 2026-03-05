@@ -15,7 +15,7 @@ I have 10+ years of experience operating production systems on AWS and designing
 
 ---
 
-## ⚙️ What I Do
+## What I Do
 
 - Design and operate large-scale cloud infrastructure  
 - Build reliable distributed systems  
@@ -26,7 +26,7 @@ I have 10+ years of experience operating production systems on AWS and designing
 
 ---
 
-## ☁️ Infrastructure Experience
+## Infrastructure Experience
 
 | Area | Technologies |
 |-----|-------------|
@@ -38,7 +38,7 @@ I have 10+ years of experience operating production systems on AWS and designing
 
 ---
 
-## 🧠 Engineering Interests
+## Engineering Interests
 
 - Distributed systems  
 - Reliability engineering  
@@ -52,7 +52,7 @@ I also follow developments around modern workloads such as AI and generative sys
 ---
 
 
-## 🎤 Talks
+## Talks
 
 **AWS Community Day Turkey 2025**
 
@@ -64,7 +64,7 @@ Designing high-performance real-time multiplayer systems on AWS.
 ---
 
 
-## ✍️ Writing
+## Writing
 
 I write about cloud infrastructure, DevOps, and distributed systems.
 
@@ -72,7 +72,7 @@ https://yunustiras.com
 
 ---
 
-## 🌍 Community
+## Community
 
 AWS Community Builder  
 https://builder.aws.com/community/@yunustiras
