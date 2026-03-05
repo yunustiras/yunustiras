@@ -4,7 +4,7 @@ Senior Site Reliability Engineer focused on building large-scale cloud infrastru
 
 My work centers on reliability engineering, Kubernetes platforms, cloud infrastructure, and high-performance backend systems.
 
-I have several years of experience operating production systems on AWS and designing infrastructure for scalable, globally distributed applications.
+I have 10+ years of experience operating production systems on AWS and designing infrastructure for scalable, globally distributed applications.
 
 ---
 
