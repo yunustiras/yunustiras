@@ -11,6 +11,7 @@ I have 10+ years of experience operating production systems on AWS and designing
 ## Certifications
 
 ![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange)
+![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-blue)
 ![CKA](https://img.shields.io/badge/Kubernetes-CKA-blue)
 
 ---
